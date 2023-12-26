@@ -1,0 +1,21 @@
+.about {
+    text-align: center;
+    padding: 6em;
+}
+.about__titulo {
+    font-weight: 600;
+    color: var(--color-emphasis);
+}
+.about__titulo__destaque {
+    color: var(--color-title);
+    font-size: 3rem;
+    font-weight: 600;
+    padding: 1.2em;
+}
+.about__texto {
+    font-size: 1.25rem;
+    font-weight: 400;
+    width: 55%;
+    margin: 0 auto;
+    line-height: 1.5;
+}

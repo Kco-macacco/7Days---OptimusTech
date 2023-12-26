@@ -1,0 +1,22 @@
+.informacoes__lista {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 10em;
+}
+.informacoes__itens {
+    width: 20%;
+}
+.informacoes__titulo__destaque {
+    font-size: 3.75rem;
+    color: var(--color-emphasis);
+    font-weight: 600;
+}
+.informacoes__titulo {
+    font-size: 1.2rem;
+    color: var(--color-title);
+    padding: 1em 0 .5em;
+}
+.informacoes__texto {
+    font-weight: 400;
+    line-height: 1.5;
+}

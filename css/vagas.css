@@ -1,0 +1,28 @@
+.vagas {
+    text-align: center;
+    padding: 12em 0;
+}
+
+.vagas__titulo {
+    font-size: 0.9rem;
+    color: var(--color-emphasis);
+}
+
+.vagas__titulo__destaque {
+    color: var(--color-title);
+    font-size: 2.25rem;
+    font-weight: 600;
+    padding: 1em 0;
+    letter-spacing: -0.72px;
+}
+
+.vagas__texto {
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+
+.vagas__imagem {
+    margin: 4em auto;
+}
+
+
